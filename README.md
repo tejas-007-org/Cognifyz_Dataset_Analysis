@@ -2,7 +2,7 @@ Project Title:
 Restaurant Data Analysis Using SQL and Python
 
 Organization:
-Cognifyz Technologies – Data Analysis Internship
+Cognifyz Technologies
 
 Objective:
 To analyze a restaurant dataset using SQL to gain insights about cuisines, cities, ratings, pricing, and services such as online delivery and table booking.
